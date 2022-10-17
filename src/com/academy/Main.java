@@ -5,6 +5,7 @@ import com.academy.entity.Lecture;
 public class Main {
 
     public static void main(String[] args) {
-        Lecture lecture = new Lecture();
+        Lecture mathLecture = new Lecture();
+        Lecture programmingLecture = new Lecture();
     }
 }
